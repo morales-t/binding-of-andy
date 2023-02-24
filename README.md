@@ -34,14 +34,14 @@ Next you need to download the repo we'll be working on (which is this 😊).
 
 To do so - you "clone" the repo (i.e. copy it to your computer). To do so:
  - Open Git Bash
- - Go to the top right of the repo - there should be a green button called "Code.
+ - Go to the top right of the repo on [github](https://github.com/morales-t/binding-of-andy) - there should be a green button called "Code".
  - Click on the "SSH" button
  - Copy the link it allows you to copy.
  - Go in GitBash and type in: git clone git@github.com:morales-t/binding-of-andy.git
 
 Yay! Now you've downloaded the code.
 
-If you want to run commands on this code - you have to be in the folder that represents the git repository (don't worry - things like VScode made this easy).
+If you want to run commands on this code - you have to be in the folder that represents the git repository (don't worry - things like VScode make this easy).
 
 ### Helpful Commands
 - git pull - Download the latest changes of code
