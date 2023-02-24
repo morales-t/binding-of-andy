@@ -21,10 +21,10 @@ To get started - go ahead and download Git (and git bash) from the link [here](h
 
 Next step is setting up a GitHub account. This is so your code is hosted in the cloud + you can collaborate on code together. Make an account at the site [here](https://github.com/).
 
-### Git Nomencalture
+### Git Nomenclature
 - Repo : Think of this as the main folder for a project you're working on.
 - Main/Master : This is the "official" version of the code, that people view as the primary version
-- Branch : If multiple people are working on the same code at the same time - a branch will let you edit the code in a parallel universe where only you are the one editting the code. Then you "merge" this branch with the main - to bring your edits. I wouldn't worry about this for now - because I'm not going to have you use branches to start.
+- Branch : If multiple people are working on the same code at the same time - a branch will let you edit the code in a parallel universe where only you are the one editing the code. Then you "merge" this branch with the main - to bring your edits. I wouldn't worry about this for now - because I'm not going to have you use branches to start.
 - Commit: It's basically a point and time that you "save" the files.
 
 ### Getting Started.
@@ -48,11 +48,11 @@ If you want to run commands on this code - you have to be in the folder that rep
 - git add . - Adds all changes to be commited (i.e. it's staging them to be saved)
 - git commit -m "helpful message here" - Saves all staged changes with your helpful message
 - git push - Pushes the code to the cloud (GitHub) so now it's really a part of main.
-- git checkout -b branch_name - Makes a seperate branch to stage your changes in
+- git checkout -b branch_name - Makes a separate branch to stage your changes in
 - git push origin branch_name - Pushes your branch to main (in the cloud)
 
 ## Setting up VScode (Not Python Specific)
-In theory - all you need to run your code is to have a language downloaded - and have some system to save text (Hello mr. Microsoft Word). But in reality no one really just does that (for the most part). People will use IDE (integrated development environments) so that they have an easy way to execute their code, have a helpful text editor that will highlight things to make coding in a specific language easier, have easy access to the terminal, have bells and whisles that makes coding easier, and most importantly make it so everything is in darkmode.
+In theory - all you need to run your code is to have a language downloaded - and have some system to save text (Hello mr. Microsoft Word). But in reality no one really just does that (for the most part). People will use IDE (integrated development environments) so that they have an easy way to execute their code, have a helpful text editor that will highlight things to make coding in a specific language easier, have easy access to the terminal, have bells and whistles that makes coding easier, and most importantly make it so everything is in darkmode.
 
 Which IDE you use is a heavily personal choice - so there is no "right" answer - but out of all the ones I've used, I've found the most helpful on to be VScode (Visual Studio Code).
 
@@ -61,7 +61,7 @@ Just for now - I'm going to have you download the program - which you can do [he
 ## Downloading Python
 Okay, I'm going to be real with you, I know you already have it downloaded. But some of the settings + boxes when you first downloaded were super important to click, and they are a huge pain in the ass to setup if you don't click them. So we're going to have you uninstall and then reinstall python, and I'm going to tell you the boxes to click.
 
-Normally - I suggest using the latest version of Python because it's faster and more up to date. But PyGame doesn't seem to support 3.11 well currently, so we're going oldschool (hello mr 3.10).
+Normally - I suggest using the latest version of Python because it's faster and more up to date. But PyGame doesn't seem to support 3.11 well currently, so we're going old school (hello mr 3.10).
 
 Download 3.10 [here](https://www.python.org/downloads/release/python-31010/). You want Windows Install (64-bit).
 
@@ -69,7 +69,7 @@ Open that sucker up, and click uninstall, and wait for 3 years while it does it'
 
 Now open that sucker up agian. **_BEFORE CLICKING INSTALL_ now - please for the love of the lord, click the button at the bottom that says "Add python.exe to PATH"**. Then you click install now.
 
-Then by good god you should have python install the way the lord intended. Let's test it though. Go to the Command Propt - and type in "python".
+Then by good god you should have python install the way the lord intended. Let's test it though. Go to the Command Prompt (you can find it if you search for it on your computer) - and type in "python".
 
 If it says Python 3.10.10 and a bunch of shit after then praise the sun. If not, DM me please. Then type in: exit()
 
@@ -82,7 +82,7 @@ The thing to always keep in mind, is that programming is an incredibly collabora
 ### In Practice
 Now, the thing to keep in mind, is that no one is all knowing and all seeing. Because of this reality, the package creators won't know what other packages you'll be using when coding. Because of this - conflicts can arise (i.e. you can't install two packages of something at the same time).
 
-Because of that - people will often create "environments" of python. That is python with some packages installed - that are seperate from all your other "enivoronments" of python with other packages installed. This ensures you don't need to worry about those conflicts as much.
+Because of that - people will often create "environments" of python. That is python with some packages installed - that are separate from all your other "environments" of python with other packages installed. This ensures you don't need to worry about those conflicts as much.
 
 Luckily - IDEs make this incredible simple to use - because this is incredibly standard.
 
