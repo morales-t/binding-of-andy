@@ -1,4 +1,4 @@
-# Welcome to your coding journey Andy
+# Binding of Andy
 
 ## Getting Started
 Hola Andy, welcome to your programming journey. In these instructions - we're going to go over the pre-work to get you setup. This is the boring stuff needed at the start, so you can really hit the ground running, with some good programming hygiene.
