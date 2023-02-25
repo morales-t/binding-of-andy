@@ -19,7 +19,7 @@ Information is games is often in this types. For example - in a top-down 2D game
 
 Alot of this information can be stored by variables. Variables is basically giving something a name that you can refer to in code. This is because without it - you'd need to refer to the specific location where the data is stored (usually in memory i.e. RAM), which would be really really hard to write. (Basically what a variable is really doing is saying "Hey, this data is stored in Memory Slot 1, or Memory Slot 2" - which the computer looks up for you and grabs).
 
-For example - I may name a variable **Name** and say it equal to "Andy" (a string). In python this would be written like this.
+For example - I may name a variable **Name** and say it is equal to "Andy" (a string). In python this would be written like this.
 
 ```
 Name = "Andy"
