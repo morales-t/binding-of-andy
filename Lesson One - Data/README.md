@@ -1,4 +1,4 @@
-# Lesson 1: Getting Started w/ Python + PyGame.
+# Lesson 1: Getting Started w/ Python + Programming
 
 ## Data
 
