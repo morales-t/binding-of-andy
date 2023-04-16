@@ -163,6 +163,8 @@ Awesome! We should now see 3 iterations of Andy, one when we originally declared
 
 For the next example let's make another dictionary for a side character - Trevor. Please create the side_character variable that is a dictionary with all the same key"s as the main_character variable (but you can edit the values!)
 
+If you get stuck at any point - the full lesson's code is in the example.py file in the same folder as this readme!
+
 ### Practical Introduction of defining these types - Lists
 
 Awesome! But what is we want to store many of these related characters together 😲??!?
